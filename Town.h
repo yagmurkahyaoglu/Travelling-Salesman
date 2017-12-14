@@ -8,7 +8,7 @@
 #include <iostream>
 #include <vector>
 #include "Road.h"
-#define INF 501
+#define INF 0x3f3f3f3f
 using namespace std;
 
 class Road;
